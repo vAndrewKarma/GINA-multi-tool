@@ -2,6 +2,12 @@
 Gina-multi-tool/.vs/
 Gina-multi-tool/.vscode/
 Gina-multi-tool/.idea/
+Gina-multi-tool/Gina-multi-tool/Debug/
+Gina-multi-tool/Gina-multi-tool/Release/
+Gina-multi-tool/Gina-multi-tool/x64/
+Gina-multi-tool/Gina-multi-tool/x86/
+Gina-multi-tool/Gina-multi-tool/bin/
+Gina-multi-tool/Gina-multi-tool/obj/
 
 # User-specific files
 Gina-multi-tool/*.user
